@@ -2,7 +2,7 @@
 
 ## App: https://vue-coach-finder-92e47.web.app/
 
-## A Vue3 Single Page Application used with a Firebase backend to allow users to find coaches and ask them for training and see their price planes. And for Coaches to get training requests and accept or decline them.
+## A Vue3 Single Page Application used with a Firebase backend to allow users to find coaches and ask them for training and see their price plans. And for Coaches to get training requests and accept or decline them.
 
 ## How to run:
 
